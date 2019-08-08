@@ -1,0 +1,1 @@
+module.exports.SimpleMessage = 'Hai'; //exporting SimpleMessage object
